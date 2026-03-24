@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**AnkitBhatt477/AnkitBhatt477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ankit
 
-Here are some ideas to get you started:
+💻 MCA Student | Aspiring Java Backend Developer  
+🧠 Built ML project on energy optimization in Wireless Sensor Networks  
+🚀 Currently learning DSA & Spring Boot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Java
+- Data Structures & Algorithms
+- Spring Boot (learning)
+- Machine Learning (basic)
+
+## 📌 Featured Projects
+- ⚡ ML Energy Optimization in WSN
+- 📊 Java DSA Practice
+- 🔧 Backend APIs (Spring Boot - in progress)
+
+## 🎯 Current Focus
+- Strengthening DSA
+- Building scalable backend systems
+- Bridging ML with backend applications
